@@ -11,7 +11,6 @@ y = "bar"
 z= int(input("enter a value for z : "))
 print(z + 10)
 
-print
 #defining a function hello()
 def hello():
     print("hello from a function")
